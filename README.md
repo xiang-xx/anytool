@@ -1,4 +1,9 @@
 # anytool
+
+[![Go](https://github.com/xiang-xx/anytool/workflows/Go/badge.svg?branch=main)](https://github.com/xiang-xx/anytool/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/xiang-xx/anytool)](https://goreportcard.com/report/github.com/xiang-xx/anytool)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A tool to get data from any type.
 
 ## install
